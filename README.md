@@ -1,4 +1,4 @@
-## <p align="center" > “It's already written. Not the code, though, that's typed.” </p>
+## <p align="center" > “Everything is already written. Not the code, though, that's typed.” </p>
 
 <br>
 
