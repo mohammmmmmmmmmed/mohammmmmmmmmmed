@@ -17,7 +17,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mohammmmmmmmmmed.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mohammmmmmmmmmmmmmmmmmmmmmme.d/)
  [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/ironsidepickle)
- ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=style=flat-square&logo=HackerRank&logoColor=white)
 
 
 
