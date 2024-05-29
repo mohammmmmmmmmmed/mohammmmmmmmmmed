@@ -24,7 +24,7 @@
 
 
 <!-- Talking about you -->
-## Talking about Personal Stuffs:
+## Personal Stuff:
 
 <p align="center">
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
