@@ -100,13 +100,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![](https://github-profile-trophy.vercel.app/?username=mohammmmmmmmmmed&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-<!-- Footer Counts -->
-
-[![@mohammmmmmmmmmed's Holopin board](https://www.holopin.io/@mohammmmmmmmmmed#)](https://www.holopin.io/@mohammmmmmmmmmed)
-
 ### Visitors Count 
 
   <img src="https://profile-counter.glitch.me/mohammmmmmmmmmed/count.svg" />
