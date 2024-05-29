@@ -77,7 +77,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <hr>
 <br>
 
-<!--
 
 # 📊 GitHub Stats:
 
@@ -93,7 +92,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 <br><br> 
 
--->
+
 
 
 ## 🏆 GitHub Trophies
