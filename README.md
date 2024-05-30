@@ -34,7 +34,7 @@
 - 👨🏽‍💻 I am currently working as an Intern @TinkerHub
 - 💓 Passionate about Web Development, 3D Development, Problem Solving and Reading!
 - 💬 Ask me about Web Development, Indie Movies, Poetry and Niche Books - I am delighted to help!
-- ⚡️ Hobbies: Coding Gaming Poetry and Movies
+- ⚡️ Hobbies: Coding, Gaming, Poetry, and Movies
 - 📫 How to reach me: [mohammedsahal00857@gmail.com]
 
 <br><br>
