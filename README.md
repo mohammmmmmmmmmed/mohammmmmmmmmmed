@@ -6,7 +6,7 @@
   <img alt="Header Image" src="./img/top_image.png" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&pause=1000&color=7B2F07&center=false&vCenter=true&random=false&width=435&lines=Hey!;I+am+a+Developer+skilled+in+C%2B%2B%2C+Quant+Development%2C+and+Fullstack+Engineering.;I+am+also+an+Avid+Grammar+Nazi+and+a+Problem+Solver.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&pause=750&color=7B2F07&center=false&vCenter=true&random=false&width=435&lines=Hey!;I+am+a+Low-Level+C%2B%2B+Developer.;I+am+a+Quant+Developer.;I+am+a+Fullstack+Developer.;I+am+an+Avid+Grammar+Nazi.;I+am+a+Problem+Solver.)](https://git.io/typing-svg)
 
 
 
