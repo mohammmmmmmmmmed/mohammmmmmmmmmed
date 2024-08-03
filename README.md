@@ -33,7 +33,7 @@
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/abhinandan-khurana/abhinandan-khurana/main/img/git-header.svg" />
 </p>
 
-- 👨🏽‍💻 I am currently working as an Intern @TinkerHub
+- 👨🏽‍💻 I am currently working on my Quant Dev skills
 - 💓 Passionate about Web Development, 3D Development, Problem Solving and Reading!
 - 💬 Ask me about Web Development, Indie Movies, Poetry and Niche Books - I am delighted to help!
 - ⚡️ Hobbies: Coding, Gaming, Poetry, and Movies
